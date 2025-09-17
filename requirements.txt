@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+transformers
+huggingface-hub
+sentence-transformers
+accelerate
+peft
+timm
+datasets
+gensim
+scikit-learn
+pandas
+tqdm
+sentencepiece
+tokenizers
